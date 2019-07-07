@@ -1,0 +1,27 @@
+.Products {
+  margin-top: 10px;
+}
+
+.Products_Container {
+  margin-top: 5px;
+}
+
+.Products_cart-container {
+  position: relative;
+}
+
+.Products_cart {
+  position: relative;
+  font-size: 2rem;
+  margin-left: 1%;
+}
+
+.Products_cart-counter {
+  position: absolute;
+  border-radius: 100%;
+  background: #ed4036;
+  color: #fff;
+  top: -8px;
+  right: -6px;
+  padding: 0 5px;
+}
