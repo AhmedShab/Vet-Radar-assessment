@@ -25,7 +25,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 Launches the test runner in the interactive watch mode.<br>
 This should passes all the four tests
 
-### demo
+## Demo
 
 You can visit this url to view the project as well
 
