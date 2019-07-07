@@ -6,7 +6,7 @@ It was bootstrapped with [Create React App](https://github.com/facebook/create-r
 ## Installing the app
 
 * Ensure you have nodejs installed
-* Get the source by running `git clone https/`
+* Get the source by running `git clone https://github.com/AhmedShab/Vet-Radar-assessment.git`
 * Run `npm install` to do first time installation of all dependencies
 
 
@@ -23,15 +23,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### `npm test`
 
 Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+This should passes all the four tests
 
-### `npm run build`
+### demo
 
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
+You can visit this url to view the project as well
 
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
+http://vat_radar-ahmed.surge.sh/
